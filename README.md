@@ -55,4 +55,4 @@ e)	HFSS (NPM 2018) and UPFs<br>
 f)	Neither HFSS (NPM 2004/5) nor UPFs<br>
 g)	Neither HFSS (NPM 2018) nor UPFs
 </p>
-1.9 Assess the percentage of per capita daily foods derived HFSS, UPF, both or neither, and how this varies for males and females and across age groups. 
+1.9 Assess the percentage of per capita daily foods derived from HFSS, UPF, both or neither, and how this varies for males and females and across age groups. 
